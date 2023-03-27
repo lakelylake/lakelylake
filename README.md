@@ -23,7 +23,9 @@ Développeuse web junior, je recherche une entreprise d'accueil pour ma formatio
 <br> Je me suis inscrite à la formation [Bachelor 3 Concepteur Développeur d'Application avec O'Clock](https://oclock.io/blog/7164/guide-pratique-de-lalternance-pour-les-entreprises) pour un contrat de **professionnalisation**. Si vous êtes interessé, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/cmalkoc) !
 
 - ⚡ Fun fact: 
-[Cliquez, et regardez le code source de la page !](https://hasthelargehadroncolliderdestroyedtheworldyet.com/) :rabbit:
+[Cliquez, et regardez le code source de la page !](https://hasthelargehadroncolliderdestroyedtheworldyet.com/) [^1] :rabbit: 
+
+[^1] : Source [HTLHCDTWY?](https://twitter.com/htlhcdtwy)
 
 <!--
 **lakelylake/lakelylake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
