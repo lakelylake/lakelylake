@@ -1,6 +1,6 @@
 # Bonjour, Hello, but most importantly, <Hello World !> 😄
 
-:fr:
+:fr: <br> 
 Développeuse web junior, je recherche une entreprise d'accueil pour ma formation de ["Concepteur Développeur d'Applications" (Niveau 6), avec O'Clock](https://oclock.io/formations/alternance), à partir d'Octobre 2023 pour une durée de 16 mois. 
 
 ## A Propos
@@ -26,6 +26,8 @@ Développeuse web junior, je recherche une entreprise d'accueil pour ma formatio
 [Cliquez, et regardez le code source de la page !](https://hasthelargehadroncolliderdestroyedtheworldyet.com/) [^1] :rabbit: 
 
 [^1] : Source [HTLHCDTWY?](https://twitter.com/htlhcdtwy)
+
+
 
 <!--
 **lakelylake/lakelylake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
