@@ -16,7 +16,7 @@ Développeuse web junior, je recherche une entreprise d'accueil pour ma formatio
 
  - 🔭 Je suis en train de travailler
   ... sur un, ou des projets personnels ! 
-    <br> En effet, en attendant ma rentrée d'octobre, en plus de chercher activement une entreprise, je travaille en même temps sur plusieurs projets personnels. <br> Notamment, le passage d'un diplôme profeesionnel de niveau 4, et entre autres des projets de développement de jeux-vidéos, le design graphique sur Photoshop ainsi que la composition sur FLStudio. Un panel assez large et variée en couleurs dirais-je ! :rainbow:
+    <br> En effet, en attendant ma rentrée d'octobre, en plus de chercher activement une entreprise, je travaille en même temps sur plusieurs centres d'intérêt. <br> Notamment, le passage d'un diplôme profeesionnel de niveau 4, et entre autres des projets de développement de jeux-vidéos, le design graphique sur Photoshop ainsi que la composition sur FLStudio. Un panel assez large et variée en couleurs dirais-je ! :rainbow:
     
 - 🤔 J'ai besoin d'aide pour
 ... trouver une entreprise !
