@@ -11,7 +11,7 @@ Développeuse web junior, je recherche une entreprise d'accueil pour ma formatio
     
 - 🤔 J'ai besoin d'aide pour
 ... trouver une entreprise !
-<br> Je me suis inscrite à la formation [Bachelor 3 Concepteur Développeur d'Application avec O'Clock](https://oclock.io/blog/7164/guide-pratique-de-lalternance-pour-les-entreprises) pour un contrat de **professionnalisation**. Si vous êtes interessé, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/cmalkoc) !
+<br> Je me suis inscrite à la formation [Bachelor 3 Concepteur Développeur d'Application avec O'Clock](https://oclock.io/blog/7164/guide-pratique-de-lalternance-pour-les-entreprises) pour un contrat d' **apprentissage**. Si vous êtes interessé, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/cmalkoc) !
 
 - ⚡ Fun fact: 
 [Cliquez, et regardez le code source de la page !](https://hasthelargehadroncolliderdestroyedtheworldyet.com/) [^1] :rabbit: <br>
